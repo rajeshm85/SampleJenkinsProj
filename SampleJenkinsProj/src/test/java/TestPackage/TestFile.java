@@ -8,7 +8,8 @@ public class TestFile {
 	public static void test() {
 		// TODO Auto-generated method stub
 		System.out.println("$$$$$$$$$$ This is a test project ######");
-
+		
+		System.out.println("Validate github hook");
 	}
 
 }
